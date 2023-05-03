@@ -14,3 +14,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mbae059)](https://solved.ac/mbae059/)
 ![mbae059's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbae059&show_icons=true&theme=radical)
+
+
+#### Awards
+
