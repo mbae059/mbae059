@@ -15,12 +15,14 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mbae059)](https://solved.ac/mbae059/)
 ![mbae059's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbae059&show_icons=true&theme=radical)
 
-### Activity
+Activity
+--------
 
 - (2023) 부산대 교내 코드레이스 출제
 - (2023) 카카오 테크 캠퍼스 1기 참여
-- 
-#### Awards
 
+Awards
+------
 - (2022) 부산코딩경진대회 대학부 대상
 - (2022) 부산대 테크위크 코딩테스트 3위
+- (2022) 부산 코딩테스트 경진대회 우수상 (부산정보산업진흥원장상)
