@@ -38,4 +38,11 @@ Awards
 Interests
 ---------
 - Algorithm
-- 
+
+
+공부 계획
+-------------
+- Network
+- AI/ML
+- Backend Frameworks
+- 백준 플레문제를 무난히 푸는 다이아가 되고싶음...
