@@ -27,8 +27,11 @@ Activity
 
 - (2022) 부산대 교내 알고리즘 동아리 
 - (2023) 부산대 교내 코드레이스 출제
+ * [2023 부산대학교 CodeRace](https://www.acmicpc.net/contest/view/994)
+   * [게임을 클리어하자](https://www.acmicpc.net/problem/28017)
+   * [시간이 겹칠까?](https://www.acmicpc.net/problem/28018)
+   * [](https://www.acmicpc.net/problem/28019)
 - (2023) 카카오 테크 캠퍼스 1기 참여
-
 Awards
 ------
 - (2022) 부산코딩경진대회 대학부 대상
