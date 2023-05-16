@@ -19,7 +19,7 @@
 
 School
 -------
-- 부산대학교
+- [부산대학교 전기컴퓨터공학부 컴퓨터공학과](https://cse.pusan.ac.kr/)
 
 
 Activity
