@@ -30,7 +30,6 @@ Activity
    * [게임을 클리어하자](https://www.acmicpc.net/problem/28017)
    * [시간이 겹칠까?](https://www.acmicpc.net/problem/28018)
    * [산지니의 여행계획](https://www.acmicpc.net/problem/28019)
-- (2023) 카카오 테크 캠퍼스 1기 참여
 
 
 Awards
@@ -45,8 +44,6 @@ Interests
 
 Certificate
 ---------
-- COS Pro 1급 (2023 우코페 예선 통과하면 자동으로 주는 것 같다...)
-
 
 공부 계획
 -------------
