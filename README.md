@@ -31,7 +31,8 @@ Activity
    * [시간이 겹칠까?](https://www.acmicpc.net/problem/28018)
    * [산지니의 여행계획](https://www.acmicpc.net/problem/28019)
 
-
+- (2023) [ICPC 예선 57등](http://static.icpckorea.net/2023/first_round/scoreboard/) (본선진출)
+  
 Awards
 ------
 - (2022) 부산코딩경진대회 대학부 대상
