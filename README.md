@@ -59,3 +59,7 @@ Certificate
 - AI/ML
 - Backend Frameworks
 - 백준 플레문제를 무난히 푸는 다이아가 되고싶음...
+
+Books I read
+------------
+혼자 공부하는 컴퓨터 구조 + 운영체 (한빛미디어)
