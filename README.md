@@ -27,11 +27,20 @@ Activity
 
 - (2022) 부산대 교내 알고리즘 동아리
  * [2023 부산대학교 CodeRace 운영 및 출제](https://www.acmicpc.net/contest/view/994)
-   * [게임을 클리어하자](https://www.acmicpc.net/problem/28017)
-   * [시간이 겹칠까?](https://www.acmicpc.net/problem/28018)
-   * [산지니의 여행계획](https://www.acmicpc.net/problem/28019)
- * [2024 부산대학교 PNUPC 운영 및 출제]
- * 
+   * <출제> [게임을 클리어하자](https://www.acmicpc.net/problem/28017)
+   * <출제> [시간이 겹칠까?](https://www.acmicpc.net/problem/28018) 
+   * <출제> [산지니의 여행계획](https://www.acmicpc.net/problem/28019) 
+ * [2024 부산대학교 PNUPC 운영, 출제, 검수](https://www.acmicpc.net/contest/view/1267)
+   * <출제> 
+   * <검수>
+   * <검수>
+   * <검수>
+   * <검수>
+   * <검수>
+   * <검수>
+   * <검수>
+   * <검수>
+
  * PULSE 멘토링
 
 - (2023) [ICPC 예선 57등](http://static.icpckorea.net/2023/first_round/scoreboard/)
