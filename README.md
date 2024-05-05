@@ -35,15 +35,15 @@ Activity
 
  * (2024) PULSE 멘토링
  * (2024) [부산대학교 PNUPC 운영, 출제, 검수](https://www.acmicpc.net/contest/view/1267)
-   * <출제> 
-   * <검수>
-   * <검수>
-   * <검수>
-   * <검수>
-   * <검수>
-   * <검수>
-   * <검수>
-   * <검수>
+   * <출제> [두유노팰린드롬?](https://www.acmicpc.net/problem/31794)
+   * <검수> [모험의 시작](https://www.acmicpc.net/problem/31789)
+   * <검수> [아~파트 아파트](https://www.acmicpc.net/problem/31797)
+   * <검수> [한빛미디어 (Easy)](https://www.acmicpc.net/problem/31796)
+   * <검수> [간단한 문제](https://www.acmicpc.net/problem/31790)
+   * <검수> [바이러스 공격](https://www.acmicpc.net/problem/31791)
+   * <검수> [한빛미디어 (Hard)](https://www.acmicpc.net/problem/31792)
+   * <검수> [공 굴리기](https://www.acmicpc.net/problem/31793)
+   * <검수> [V.I.P](https://www.acmicpc.net/problem/31795)
 
 
 
