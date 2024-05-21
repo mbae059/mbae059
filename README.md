@@ -65,10 +65,10 @@ Certificate
 
 공부 계획
 -------------
-- Network
+- Docker
+- Cloud
 - AI/ML
 - Backend Frameworks
-- 백준 플레문제를 무난히 푸는 다이아가 되고싶음...
 
 Books I read
 ------------
