@@ -62,6 +62,8 @@ Interests
 
 Certificate
 ---------
+TOEIC 950
+OPIc AL
 
 공부 계획
 -------------
