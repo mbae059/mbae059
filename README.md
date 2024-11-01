@@ -5,10 +5,10 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-C++ - for algorithms. Solved all over 2000 problems. Wrote 100,000+ lines (Estimated)
-Java - for spring
-Python - Django, AI
-Javascript - React, Nodejs
+- C++ - for algorithms. Solved all over 2000 problems. Wrote 100,000+ lines (Estimated)
+- Java - for spring
+- Python - Django, AI
+- Javascript - React, Nodejs
 
 
 
