@@ -80,6 +80,11 @@ Certificate
 - TOEIC 950 (expired. 955인지 950인지 정확히 기억 안남)
 - OPIc AL (2024.9.11 취득)
 
+장학생
+-----
+- [2024 마일스톤 장학생 A](https://cse.pusan.ac.kr/cse/14651/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NlJTJGMjYwNSUyRjE2OTU1NTclMkZhcnRjbFZpZXcuZG8lM0ZiYnNPcGVuV3JkU2VxJTNEJTI2aXNWaWV3TWluZSUzRGZhbHNlJTI2c3JjaENvbHVtbiUzRCUyNnBhZ2UlM0QxJTI2c3JjaFdyZCUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2YmJzQ2xTZXElM0QlMjZwYXNzd29yZCUzRCUyNnJnc0VuZGRlU3RyJTNEJTI2)
+
+
 공부 계획
 -------------
 - Docker
