@@ -4,13 +4,20 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
+
+C++ - for algorithms. Solved all over 2000 problems. Wrote 100,000+ lines (Estimated)
+Java - for spring
+Python - Django, AI
+Javascript - React, Nodejs
+
+
+
 ### Frameworks
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![spring](https://img.shields.io/badge/spring-70b42c.svg?&style=for-the-badge&logo=spring&logoColor=white)
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmbae059&count_bg=%2379C83D&title_bg=%23242FB0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -26,7 +33,6 @@ School
 
 Activity
 --------
-
 
  * (2024) PULSE 멘토링
  * (2024) [부산대학교 PNUPC 운영, 출제, 검수](https://www.acmicpc.net/contest/view/1267)
@@ -47,7 +53,7 @@ Activity
 - (2023) [ICPC 예선 57등](http://static.icpckorea.net/2023/first_round/scoreboard/)
 - (2023) [ICPC 본선 60등](http://static.icpckorea.net/2023/regional/scoreboard/)
 
-- (2022) 부산대 교내 알고리즘 동아리
+- (2022~2024) 부산대 교내 알고리즘 동아리
 
 
 
@@ -58,10 +64,15 @@ Activity
   
 Awards
 ------
+
+- (2024) CSE TECHWEEK 프로그래밍 경진대회 1등
+- (2024) 제3회 PNU Coding Challenge 우수상
 - (2022) 부산코딩경진대회 대학부 대상
 - (2022) 부산대 테크위크 코딩테스트 3위
-- (2022) 부산 코딩테스트 경진대회 우수상 (부산정보산업진흥원장상)
+- (2022) 부산디지털혁신아카데미 잡페어 코딩테스트 대회 우수상 (부산정보산업진흥원장상)
+- (2022) 부산대 프로그래밍 대회 CodeRace 동상
 
+  
 Interests
 ---------
 - Algorithm
