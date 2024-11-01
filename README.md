@@ -74,6 +74,8 @@ Awards
 Interests
 ---------
 - Algorithm
+- Math
+
 
 Certificate
 ---------
@@ -98,7 +100,8 @@ Study Plan
 - Backend Frameworks
 - Military SW
 - Japanese (within 2030)
-
+- Linear Algebra
+- Discrete Mathematics
 
 Books I read
 ------------
