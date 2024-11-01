@@ -84,13 +84,21 @@ Certificate
 -----
 - [2024 마일스톤 장학생 A등급](https://cse.pusan.ac.kr/cse/14651/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NlJTJGMjYwNSUyRjE2OTU1NTclMkZhcnRjbFZpZXcuZG8lM0ZiYnNPcGVuV3JkU2VxJTNEJTI2aXNWaWV3TWluZSUzRGZhbHNlJTI2c3JjaENvbHVtbiUzRCUyNnBhZ2UlM0QxJTI2c3JjaFdyZCUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2YmJzQ2xTZXElM0QlMjZwYXNzd29yZCUzRCUyNnJnc0VuZGRlU3RyJTNEJTI2)
 
+Language
+---
+- English - Proficient
+- Japanese - Is able to communicate simple things. Verbal only.
 
-공부 계획
+
+Study Plan
 -------------
 - Docker
 - Cloud
 - AI/ML
 - Backend Frameworks
+- Military SW
+- Japanese (within 2030)
+
 
 Books I read
 ------------
