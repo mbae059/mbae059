@@ -103,3 +103,8 @@ Study Plan
 Books I read
 ------------
 혼자 공부하는 컴퓨터 구조 + 운영체제 (한빛미디어)
+
+
+Contacts
+----
+- [Email](mailto:mbae059@gmail.com)
