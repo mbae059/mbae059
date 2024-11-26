@@ -33,10 +33,11 @@ School
 -------
 - [부산대학교 전기컴퓨터공학부 컴퓨터공학과](https://cse.pusan.ac.kr/)
 
-- BOJ는 github에서의 링크를 허용하고 있지 않기 때문에 링크를 다시 입력 후 들어가시기 바랍니다.
 
 Activity
 --------
+- As BOJ does not allow github links to boj, copy the url and press enter to access
+  
  * (2024) [ICPC 본선 69등](http://static.icpckorea.net/2024/regional/scoreboard/)
  * (2024) [ICPC 예선 85등](http://static.icpckorea.net/2024/first_round/scoreboard_10282200/)
  * (2024) PULSE 멘토링
