@@ -90,7 +90,7 @@ Certificate
 
 Language
 ---
-- English - Proficient
+- English - Fluent
 - Japanese - Is able to communicate.
 
 
