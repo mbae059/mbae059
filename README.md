@@ -91,7 +91,7 @@ Certificate
 Language
 ---
 - English - Proficient
-- Japanese - Is able to communicate simple things. Verbal only.
+- Japanese - Is able to communicate.
 
 
 Study Plan
