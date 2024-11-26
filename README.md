@@ -54,8 +54,8 @@ Activity
    * <출제> [게임을 클리어하자](https://www.acmicpc.net/problem/28017)
    * <출제> [시간이 겹칠까?](https://www.acmicpc.net/problem/28018) 
    * <출제> [산지니의 여행계획](https://www.acmicpc.net/problem/28019) 
-- (2023) [ICPC 예선 57등](http://static.icpckorea.net/2023/first_round/scoreboard/)
 - (2023) [ICPC 본선 60등](http://static.icpckorea.net/2023/regional/scoreboard/)
+- (2023) [ICPC 예선 57등](http://static.icpckorea.net/2023/first_round/scoreboard/)
 
 - (2022~2024) 부산대 교내 알고리즘 동아리
 
