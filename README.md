@@ -36,7 +36,7 @@ School
 
 Activity
 --------
-- As BOJ does not allow github links to boj, copy the url and press enter to access
+_As BOJ does not allow github links to boj, copy the url and press enter to access_
   
  * (2024) [ICPC 본선 69등](http://static.icpckorea.net/2024/regional/scoreboard/)
  * (2024) [ICPC 예선 85등](http://static.icpckorea.net/2024/first_round/scoreboard_10282200/)
