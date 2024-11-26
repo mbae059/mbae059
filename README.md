@@ -36,7 +36,7 @@ School
 
 Activity
 --------
- * (2024) [ICPC 예선 69등](http://static.icpckorea.net/2024/regional/scoreboard/)
+ * (2024) [ICPC 본선 69등](http://static.icpckorea.net/2024/regional/scoreboard/)
  * (2024) [ICPC 예선 85등](https://static.icpckorea.net/2024/first_round/scoreboard_10282200/)
  * (2024) PULSE 멘토링
  * (2024) [부산대학교 PNUPC 운영, 출제, 검수](https://www.acmicpc.net/contest/view/1267)
