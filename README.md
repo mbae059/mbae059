@@ -81,7 +81,7 @@ Interests
 
 Certificate
 ---------
-- TOEIC 950 (expired. 955인지 950인지 정확히 기억 안남)
+- TOEIC 950 (expired)
 - OPIc AL (2024.9.11 취득)
 
 장학생
