@@ -93,15 +93,18 @@ Language
 - English - Fluent
 - Japanese - Is able to communicate.
 
+todo
+----
+- 정보처리기사
+- 일본어
+- C++
 
 Study Plan
 -------------
 - Docker
 - Cloud
 - AI/ML
-- Backend Frameworks
 - Military SW
-- Japanese (within 2030)
 - Linear Algebra
 - Discrete Mathematics
 
