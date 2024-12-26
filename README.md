@@ -83,6 +83,10 @@ Certificate
 ---------
 - TOEIC 950 (expired)
 - OPIc AL (2024.9.11 취득)
+- PCCE C++ Lv4 1000점
+- PCCP C++ Lv4 784점
+- TOPCIT 수준3 510점
+
 
 장학생
 -----
