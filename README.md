@@ -124,7 +124,7 @@ Books I read
 ---
 - 미드, 영드
 - 요리
-- 
+- 독서
 
 Contacts
 ----
