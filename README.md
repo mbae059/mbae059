@@ -81,7 +81,7 @@ Interests
 
 Work Experience
 -----
-- 한국항공우주산업(KAI) 2025~
+- 2025 ~ 한국항공우주산업(KAI)
 
 Certificate
 ---------
