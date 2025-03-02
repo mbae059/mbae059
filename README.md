@@ -38,7 +38,7 @@ Activity
 --------
 _As BOJ does not allow github links to boj, copy the url and press enter to access_
 
- * (2025) Hello BOJ 참석
+ * (2025) Hello BOJ 온사이트 참가
  * (2024) [ICPC 본선 69등](http://static.icpckorea.net/2024/regional/scoreboard/)
  * (2024) [ICPC 예선 85등](http://static.icpckorea.net/2024/first_round/scoreboard_10282200/)
  * (2024) PULSE 멘토링
