@@ -62,6 +62,8 @@ _As BOJ does not allow github links to boj, copy the url and press enter to acce
 
 - (2022~2024) 부산대 교내 알고리즘 동아리
 
+- [ICPC summarize](https://icpc.global/ICPCID/RGIZUFGXTHI8)
+
 
 Awards
 ------
