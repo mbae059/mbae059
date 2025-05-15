@@ -38,7 +38,7 @@ Activity
 --------
 _As BOJ does not allow github links to boj, copy the url and press enter to access_
 
- * (2024) [부산대학교 PNUPC 운영, 출제, 검수](https://www.acmicpc.net/contest/view/1110)
+ * (2025) [부산대학교 PNUPC 운영, 출제, 검수](https://www.acmicpc.net/contest/view/1110)
    * <출제> [삽입 정렬을 해볼까](https://www.acmicpc.net/problem/33846)
    * <출제> [DAG LCA](https://www.acmicpc.net/problem/33851)
    * <검수> [퍼시스턴트 스택](https://www.acmicpc.net/problem/33848)
