@@ -38,6 +38,14 @@ Activity
 --------
 _As BOJ does not allow github links to boj, copy the url and press enter to access_
 
+ * (2024) [부산대학교 PNUPC 운영, 출제, 검수](https://www.acmicpc.net/contest/view/1110)
+   * <출제> [삽입 정렬을 해볼까](https://www.acmicpc.net/problem/33846)
+   * <출제> [DAG LCA](https://www.acmicpc.net/problem/33851)
+   * <검수> [퍼시스턴트 스택](https://www.acmicpc.net/problem/33848)
+   * <검수> [정말 간단한 문제](https://www.acmicpc.net/problem/33849)
+   * <검수> [PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네](https://www.acmicpc.net/problem/33845)
+   * <검수> [태종대 낚시 맛집](https://www.acmicpc.net/problem/33847)
+
  * (2025) Hello BOJ 온사이트 참가
  * (2024) [ICPC 본선 69등](http://static.icpckorea.net/2024/regional/scoreboard/)
  * (2024) [ICPC 예선 85등](http://static.icpckorea.net/2024/first_round/scoreboard_10282200/)
